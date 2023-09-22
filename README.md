@@ -1,19 +1,13 @@
-<h1> Olá :sunglasses: </h1> 
+  <h3> Olá, Seja bem vindo ! :clap: </h3> 
+<p>Eu sou o Filipe !</p>
 
+<p>Apaixonado por tecnologia desde de criança, fiquei encantado como a programação trabalha e como ela é importante em nossas vidas. Estou iniciando minha trajetória como programador Front End.</p> 
 
+<p> Atualmente estou apredendo e criando projetos com tecnlogias abaixo</p> 
 
-
-
-<h2>Eu sou o Filipe, apaixonado por tecnologia desde de criança e por criar interfaces graficas, fiquei encantado como a programação trabalha e como ela é importante em nossas vidas. Estou dando incio A minha jornada como programador Front End, mas tenho como objetivo me tronar um FullStack futuramente.</h2> 
-
-<p> :mortar_board:  Atualmente estou apredendo e criando projetos com  HTML e CSS em irei iniciar o meu aprendizado em JavaScript e React.  </p> 
-
-- <img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt=logo-html /> 
-- <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt=logo-css />
-
-<p> Embora eu esteja apenas no começo da minha jornada na programação, estou mega animado para colaborar em projetos incrivéis. :rocket: </p>
-
- <p> :computer: Em breve irei postar projetos criados por mim, com objetivo em treinar e adquiri conhecimento em diversas linguagens. </p>
+- <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+- <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipeelopess98)](https://github.com/anuraghazra/github-readme-stats)
 
