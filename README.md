@@ -1,7 +1,7 @@
   <h3> Olá, Seja bem vindo ! :clap: </h3> 
 <p>Eu sou o Filipe !</p>
 
-<p>Apaixonado por tecnologia desde de criança, estou iniciando minha trajetória como programador Front End. </p>
+<p>Apaixonado por tecnologia desde de criança, estou iniciando minha trajetória como desenvolvedor Front End. </p>
   <br>
 <br>
 
